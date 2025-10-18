@@ -1,3 +1,3 @@
-#ACTIVITY 4: USER PROFILE USING NEXT.JS
-##BSIT-3B
-##Gabriel, Mark Christian
+# ACTIVITY 4: USER PROFILE USING NEXT.JS
+## BSIT-3B
+## Gabriel, Mark Christian
